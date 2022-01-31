@@ -1,5 +1,5 @@
 .container {
-  padding: 10rem 10rem;
+  padding: 5rem 10rem;
 }
 .box {
   display: inline-block;
@@ -8,5 +8,5 @@
   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
   border-radius: 5px;
   background-color: #eee;
-  margin-right: 10px;
+  margin-right: 5px;
 }
